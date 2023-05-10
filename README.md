@@ -1,1 +1,2 @@
-# myProject
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
